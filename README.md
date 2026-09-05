@@ -173,7 +173,7 @@ safiri-ai-shipment-eta-prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/safiri-ai-shipment-eta-prediction.git
+git clone https://github.com/Sanjana27904/safiri-ai-shipment-eta-prediction.git
 cd safiri-ai-shipment-eta-prediction
 ```
 
