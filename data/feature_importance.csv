@@ -1,0 +1,16 @@
+feature,importance
+numeric__eta_update_gap_hours,0.2764043477982859
+categorical__arrPort_FIHEL,0.13247591523537694
+categorical__route_EETLL → FIHEL,0.1141052767846507
+categorical__depPort_EETLL,0.10965079802835946
+numeric__departure_delay_hours,0.100235094939984
+categorical__depPort_FIHEL,0.0815710328799268
+categorical__route_FIHEL → EETLL,0.06460833473602645
+categorical__arrPort_EETLL,0.06266353679790464
+numeric__scheduled_departure_dayofweek,0.021539077934940493
+numeric__scheduled_departure_hour,0.016034867177968436
+numeric__scheduled_transit_hours,0.01043726048034542
+categorical__ship_Megastar,0.003393320392112092
+categorical__ship_Star,0.0033583062535758163
+categorical__ship_Finlandia,0.0025454779431453157
+categorical__ship_Europa,0.000977352617397505
